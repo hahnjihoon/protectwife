@@ -1,0 +1,5 @@
+com.example.dependwife.shared-androidMain-0 C:\workspace\dependwife\shared\build\generated\updated_navigation_xml\androidMain\res
+com.example.dependwife.shared-packageAndroidMainResources-1 C:\workspace\dependwife\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\merged.dir
+com.example.dependwife.shared-packageAndroidMainResources-2 C:\workspace\dependwife\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\stripped.dir
+com.example.dependwife.shared-packageAndroidMainResources-3 C:\workspace\dependwife\shared\build\intermediates\packaged_res\androidMain\packageAndroidMainResources\res
+gradleHome-0 C:\Users\ais_j\.gradle
